@@ -42,3 +42,6 @@ To finalize you ADD a boolean for all the letters and save the SVG
 
 I love to learn new tools, and being an old blender user is a good feeling to see its development.
 Thanks to Vitor Madureira to give me the motivation and chance to help out and maybe help a lot of people.
+
+IF you want buy me a beear!
+https://www.paypal.com/donate/?hosted_button_id=FZMZKK8W32KV6
