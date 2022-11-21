@@ -1,6 +1,8 @@
 # NAME-LED FOR 3DP
 ![image](https://user-images.githubusercontent.com/17902658/202975511-302bcd93-981d-4412-88ed-796031f93b4e.png)
 
+https://www.youtube.com/watch?v=nE6VmhTqeZ0
+
 ## WHAT IS FOR 
 If you don't know how to model or want to make a lot of names this is your tool!
 I made this to learn the geometry nodes on the blender and to help a friend!
